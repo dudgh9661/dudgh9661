@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kim yeongho!
 - 👀 I’m interested in 'Server Development'
-- 🌱 I’m currently learning 'Spring Framework' and 'Java'
+- 🌱 I’m currently learning 'Spring Boot Framework' and 'Java'
 - 📫 dudgh9661@gmail.com 
 
 <!---
